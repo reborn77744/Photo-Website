@@ -8,7 +8,7 @@ const Homepage = () => {
   let [page, setPage] = useState(1);
   let [currentSearch, setCurrentSearch] = useState("");
 
-  const auth = process.env.REACT_APP_AUTH;
+  const auth = "563492ad6f917000010000015fafde79d795486d9457202ce0acda8d";
   const initialURL = "https://api.pexels.com/v1/curated?page=1&per_page=15";
   const searchURL = `https://api.pexels.com/v1/search?query=${currentSearch}&per_page=15&page=1`;
 
