@@ -1,2 +1,3 @@
-- Developed user interface by React framework.
-- Connected with Pexels API to get high-quality photos
+● 使⽤React製作使⽤者介⾯
+● 串接Pexels API取得精選相⽚
+● 依據種類搜尋相⽚及下載喜歡的相
